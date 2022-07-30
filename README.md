@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manohar-Singh-Chauhan
 - 👀 I’m interested in Software Developer, web developmet..
-- 🌱 I’m currently learning Reactjs.
+- 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...my eamil id: manoharsinghchauhan1@gmail.com
 
